@@ -2,6 +2,12 @@
 
 This repository contains lab assignments and a research project for Network Design based on the book "Computer Networking: A Top-Down Approach" by J.F. Kurose and K.W. Ross.
 
+**Contributors**
+- Pablo Ruiz
+- Md Zahidul Islam
+- Alexander Nunez
+- Joseph Ayoka
+
 ## Lab Assignments
 
 ### Phase 1: 
